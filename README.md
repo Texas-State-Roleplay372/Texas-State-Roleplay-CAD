@@ -10,7 +10,9 @@ const env = process.env;
 const list = (v) => (v || '').split(',').map((s) => s.trim()).filter(Boolean);
 
 /* ------------------------------------------------------------------ */
-/*  EDIT THIS SECTION TO CHANGE THE WELCOME MESSAGE AND TICKET TYPES   */
+/*  :hand_e6e8eb: Welcome [Username_Here] to Liberty County Roleplay!
+To play in-game, verify your Roblox account: https://discord.gg/FpEGmWRj4⁠
+Visit our sessions channel to jump right in with the community, we encourage you to check out our whitelisted information for additional insight on how our sessions operate*/
 /* ------------------------------------------------------------------ */
 const CONFIG = {
   serverName: 'Liberty County Roleplay',
